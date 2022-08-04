@@ -1,0 +1,22 @@
+@media (max-width: 620px) {
+    .kimetsu-slider {
+        padding: 0 15px;
+        gap: 15px;
+    }
+
+    .btn-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    .kimetsu-ul {
+        height: 480px;
+    }
+    .cartao .kimetsu-pokemon {
+        max-height: 230px;
+    }
+}
